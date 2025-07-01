@@ -1,16 +1,57 @@
-# flutter_crypto_app
+# 📊 Flutter Crypto App
 
-A new Flutter project.
+A beautifully designed Flutter app to **track cryptocurrency prices**, view real-time charts, and stay updated with the latest crypto news. Seamlessly integrates Firebase and Binance WebSocket to deliver a modern crypto-tracking experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Authentication (Login, Signup, Password Reset)
+- ❤️ Watchlist: Add/remove favorite coins
+- 📉 Real-time price tracking via Binance WebSocket
+- 📈 Live TradingView charts for any coin
+- 📰 Latest crypto news powered by CoinDesk
+- 💬 In-app feedback system stored in Firestore
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- **Flutter** (State management via Riverpod)
+- **Firebase** (Auth + Firestore)
+- **Binance WebSocket** for crypto data
+- **TradingView Web Charts**
+- **CoinDesk News API**
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+<img src="screenshots/login_page.jpg" width="45%" />
+<img src="screenshots/signup_page.jpg" width="45%" />
+
+<br/>
+
+<img src="screenshots/home_page.jpg" width="45%" />
+<img src="screenshots/coin_search.jpg" width="45%" />
+
+<br/>
+
+<img src="screenshots/news_page.jpg" width="45%" />
+<img src="screenshots/settings_page.jpg" width="45%" />
+
+<br/>
+
+<img src="screenshots/account_profile.jpg" width="45%" />
+<img src="screenshots/change_password.jpg" width="45%" />
+
+<br/>
+
+<img src="screenshots/behavior_settings.jpg" width="45%" />
+<img src="screenshots/feedback.jpg" width="45%" />
+
+</div>
+
+---
